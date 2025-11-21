@@ -25,4 +25,14 @@
 </ul>
 
 
+<strong>Technologies Used:</strong>
 
+<ul>
+  
+<li>for backend logic / summarization.</li>
+<li>Streamlit — for front-end / UI in some summarizer apps.</li>
+<li>YouTube Transcript API — to fetch video transcripts</li>
+<li>Transformer / Generative Models (LLMs) — e.g. Google Gemini or other large models for summarization.</li>
+<li>Environment Variable Management — .env usage in some projects for API keys.</li>
+
+</ul>
