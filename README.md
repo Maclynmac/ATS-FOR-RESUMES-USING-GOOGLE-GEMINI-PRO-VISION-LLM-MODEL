@@ -1,4 +1,4 @@
-<strong> ATS for resumes google gemini pro vision LLM model </strong>
+<strong> Resume ATS using  google gemini pro vision LLM model </strong>
 
 <strong>Features:</strong>
 
