@@ -1,4 +1,4 @@
-<strong> Resume ATS using  google gemini pro vision LLM model </strong>
+<strong> ATS for Resumes using GENERATIVE AI Google Gemini Pro Vision LLM model </strong>
 
 <strong>Features:</strong>
 
