@@ -36,3 +36,27 @@
 <li>Environment Variable Management — .env usage in some projects for API keys.</li>
 
 </ul>
+
+
+# Output
+
+
+<img width="5284" height="2708" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/a3d74378-f88a-44e3-9041-b6afeb590f63" />
+
+<img width="5336" height="2704" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/75f0d562-224a-41ca-a315-3bc93bf36422" />
+
+<img width="5316" height="2740" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/c056f31b-89ca-4f5f-ad4d-84f3b0d70e9e" />
+
+<img width="5356" height="2700" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/6cd4f062-32f7-4427-9033-e3f3ee2bfd54" />
+
+<img width="5244" height="2735" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/f92d4dff-1721-4896-ae30-d2c3d68f5ec7" />
+
+<img width="5332" height="2736" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/b6f3e3ec-f6db-44d8-909d-ff357a0eecd7" />
+
+<img width="5324" height="2736" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/a6e41793-3630-4c61-a6e0-2fd7b64aa2a6" />
+
+<img width="5240" height="2676" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/0296b6a3-55cc-495d-9537-a581a88ba92b" />
+
+
+
+
